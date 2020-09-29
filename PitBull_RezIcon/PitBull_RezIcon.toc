@@ -1,0 +1,16 @@
+﻿## Interface: 20400
+## Title: PitBull |r[|cffeda55fRezIcon|r]
+## Notes: Show a classification icon on the unit frame.
+## Notes-koKR: 유닛이 Rez 모드 상태인 경우에 유닛 프레임에 아이콘을 보여줍니다.
+## Author: ckknight
+## DefaultState: enabled
+## LoadOnDemand: 1
+## Dependencies: PitBull
+## OptionalDeps: Ace2, LibResComm-1.0, LibResComm-1.0
+## X-Category: UnitFrame
+## X-eMail: ckknight@gmail.com
+## X-Website: http://ckknight.wowinterface.com/
+## X-License: GPL v2 or later
+## Version: 2.0
+
+RezIcon.lua
